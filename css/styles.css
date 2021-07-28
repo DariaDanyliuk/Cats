@@ -1,15 +1,20 @@
 p {
-    color: blue;
+    color: burlywood;
     text-align: center;
 }
 h1 {
-    color: red;
+    color: rgb(163, 0, 0);
     text-align: center;
 }
 body {
-    background-color: rgb(255, 255, 225);
+    background-color: rgb(254, 235, 255);
 }
 img {
     display: block;
     margin: 0 auto;
+}
+a {
+    text-align: center;
+    display: block;
+    color: salmon;
 }
